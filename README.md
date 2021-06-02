@@ -1,6 +1,6 @@
 # Live Events 
 
-<img src='https://github.com/UnibucPerformance/LiveEvents-Flutter/blob/main/assets/logo.png' height='200'>
+<img src='https://github.com/UnibucPerformance/LiveEvents-Description/blob/main/logo.png' height='200'>
 
 Proiectul a fost realizat pentru materia Metode de Dezvoltare Software (Anul II - Semestrum II) în cadrul Universității București (Facultatea de Matematică și Informatică)
 

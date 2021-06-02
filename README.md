@@ -28,5 +28,5 @@ Aplicația dată permite utilizatorilor să vadă locația prietenilor lor (apro
  - Backend: **Flask** în Python, acesta fiind hostat pe heroku la adresa: [livevents.herokuapp.com](http://livevents.herokuapp.com)
 
 ## Barem:
- - [Cerințe Barem](https://github.com/UnibucPerformance/LiveEvents-Flutter/wiki/Cerinte-Barem)
- - [User Stories](https://github.com/UnibucPerformance/LiveEvents-Flutter/wiki/User-Stories)
+ - [Cerințe Barem](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/Cerinte-Barem)
+ - [User Stories](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/User-Stories)

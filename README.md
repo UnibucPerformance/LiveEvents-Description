@@ -29,8 +29,8 @@ Aplicația dată permite utilizatorilor să vadă locația prietenilor lor (apro
     - Acesta este hostat pe heroku la adresa: [livevents.herokuapp.com](http://livevents.herokuapp.com)
     - Baza de date folosită: [remotemysql.com](https://remotemysql.com)
 
-
-<a href="https://youtu.be/QtYJyxary9w" title="Demo"><img src="https://github.com/UnibucPerformance/LiveEvents-Description/blob/main/demo.png" alt="Demo" /></a>
+## Demo
+<a href="https://youtu.be/QtYJyxary9w" title="Demo"><img src="https://github.com/UnibucPerformance/LiveEvents-Description/blob/main/demo.png" alt="Demo" width="300"/></a>
 
 ## Barem:
  - [Cerințe Barem](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/Cerinte-Barem)

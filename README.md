@@ -27,7 +27,7 @@ Aplicația dată permite utilizatorilor să vadă locația prietenilor lor (apro
  - FrontEnd: **Flutter** cu limbajul specific Dart
  - Backend: Python folosind framework-ul **Flask**
     - Acesta este hostat pe heroku la adresa: [livevents.herokuapp.com](http://livevents.herokuapp.com)
-    - Baza de date folosită: [Remote Mysql](https://remotemysql.com/)
+    - Baza de date folosită: [remotemysql.com](https://remotemysql.com)
  
 
 ## Barem:

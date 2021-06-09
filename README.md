@@ -28,7 +28,9 @@ Aplicația dată permite utilizatorilor să vadă locația prietenilor lor (apro
  - Backend: Python folosind framework-ul **Flask**
     - Acesta este hostat pe heroku la adresa: [livevents.herokuapp.com](http://livevents.herokuapp.com)
     - Baza de date folosită: [remotemysql.com](https://remotemysql.com)
- 
+
+
+<a href="https://youtu.be/QtYJyxary9w" title="Demo"><img src="https://github.com/UnibucPerformance/LiveEvents-Description/blob/main/demo.png" alt="Demo" /></a>
 
 ## Barem:
  - [Cerințe Barem](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/Cerinte-Barem)

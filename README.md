@@ -32,6 +32,8 @@ Aplicația dată permite utilizatorilor să vadă locația prietenilor lor (apro
 ## Demo
 <a href="https://youtu.be/QtYJyxary9w" title="Demo"><img src="https://github.com/UnibucPerformance/LiveEvents-Description/blob/main/demo.png" alt="Demo" width="300"/></a>
 
+Demo-ul a fost uploadat pe youtube: [link](https://youtu.be/QtYJyxary9w)
+
 ## Barem:
  - [Cerințe Barem](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/Cerinte-Barem)
  - [User Stories](https://github.com/UnibucPerformance/LiveEvents-Description/wiki/User-Stories)
